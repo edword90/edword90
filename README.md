@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Python, API
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ... I don't know yet
-- 📫 How to reach me on: GitHub
+- 📫 How to reach me: on GitHub
 
 <!---
 edword90/edword90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
